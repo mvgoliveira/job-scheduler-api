@@ -2,9 +2,7 @@
 
 Uma api simples de agendamento de tarefas (Jobs) volátil.
 
----
-
-Este projeto usa as seguintes tecnologias:
+### Este projeto usa as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
