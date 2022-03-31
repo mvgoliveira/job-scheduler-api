@@ -14,6 +14,15 @@ Uma api simples de agendamento de tarefas (Jobs) volátil.
 `` GET /api/schedule`` Lista todas as Job Schedules criadas.
 
 
+`` POST /api/schedule`` Lista todas as Job Schedules criadas.
+
+
+`` GET /api/schedule`` Lista todas as Job Schedules criadas.
+
+
+`` GET /api/schedule`` Lista todas as Job Schedules criadas.
+
+
 ### 📁 Instalação
 
 ```bash
