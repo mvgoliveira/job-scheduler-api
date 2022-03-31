@@ -2,12 +2,16 @@
 
 Uma api simples de agendamento de tarefas (Jobs) volátil.
 
+---
+
 ### ⚙ Tecnologias usadas:
 
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node-Schedule](https://github.com/node-schedule/node-schedule)
 - [Express](https://expressjs.com/pt-br/)
+
+---
 
 ### 🔀 Rotas da API
 
@@ -22,6 +26,7 @@ Uma api simples de agendamento de tarefas (Jobs) volátil.
 
 `` DELETE /api/schedule`` Lista todas as Job Schedules criadas.
 
+---
 
 ### 📁 Instalação
 
