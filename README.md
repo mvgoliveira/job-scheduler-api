@@ -37,14 +37,14 @@ Uma api simples de agendamento de tarefas (Jobs) volátil.
 
 ```bash
   #  clone o repositório
-  git clone https://github.com/mvgoliveira/LetMeAsk-web
+  git clone https://github.com/mvgoliveira/job-scheduler-api
 
   #  navegue até o repositório clonado
-  cd LetMeAsk-web
+  cd job-scheduler-api
 
   #  baixe as dependências
   yarn
  
   #  divirta-se!
-  yarn start
+  yarn dev
 ```
