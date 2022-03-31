@@ -17,14 +17,12 @@ Uma api simples de agendamento de tarefas (Jobs) volátil.
 
 `` GET /api/schedule`` Lista todas as Job Schedules criadas.
 
+`` POST /api/schedule`` Cria um novo Job Schedule.
 
-`` POST /api/schedule`` Lista todas as Job Schedules criadas.
+`` PUT /api/schedule`` Atualiza o Job Schedule.
+| recebe date em formato UTC pelo corpo da requisição (req.body).
 
-
-`` PUT /api/schedule`` Lista todas as Job Schedules criadas.
-
-
-`` DELETE /api/schedule`` Lista todas as Job Schedules criadas.
+`` DELETE /api/schedule`` Remove o Job Schedule criado.
 
 ---
 
